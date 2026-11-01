@@ -19,6 +19,7 @@ I build software that connects **LLMs with real systems** — local tools, deskt
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[Parlemiao 喵说法语](https://french.paytonpei.top/)** | French learning and TCF Canada practice, including vocabulary and listening, reading, writing and speaking exercises. | Next.js · TypeScript |
 | **[Pipi-Shrimp Agent](https://github.com/mammut001/pipi-shrimp-agent)** | Local-first AI desktop agent with multi-provider LLMs, tool calling, browser automation, workflows, project memory, multi-agent collaboration, and Typst rendering. | Tauri · Rust · React · TypeScript |
 | **[Conveyor](https://github.com/mammut001/Conveyor)** | Self-hosted control plane for running Codex from Telegram or Feishu, with isolated git worktrees, job queues, auditability, and optional Mac execution nodes. | Python · SQLite · Codex · Telegram/Feishu |
 | **[Cool Down Pro](https://github.com/mammut001/cool-down-your-mac)** | Native macOS thermal and fan-control utility using SMC, a privileged helper, sensor fusion, hysteresis, asymmetric EWMA filtering, and cooldown logic. | Swift · XPC · SMJobBless · IOKit |
